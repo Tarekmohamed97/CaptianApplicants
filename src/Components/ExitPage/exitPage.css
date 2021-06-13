@@ -1,0 +1,30 @@
+
+.exitPage-container{
+    background: #f91339;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-image-exit{
+    width: 20%;
+    height: 20%;
+    margin-top: 3rem;
+}
+
+.Thanks-header{
+    font-size: 200%;
+    font-weight: bolder;
+    color: white;
+}
+
+.message-container{
+    margin: 1rem 3rem;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    font-size: 130%;
+}
+

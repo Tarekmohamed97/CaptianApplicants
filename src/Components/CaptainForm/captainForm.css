@@ -1,0 +1,33 @@
+.addCaptainForm-container{
+    background: rgb(240, 240, 240);
+    width: 40%;
+    margin: auto;
+    height: fit-content;
+    margin-top: 3rem;
+    border-radius: 10px;
+    border: 1px solid gainsboro;
+    padding: 1rem;
+    direction: rtl;
+    margin-bottom: 2rem;
+}
+
+.MuiOutlinedInput-input {
+    background-color: white !important;
+}
+
+.addCaptain-btn{
+    padding: .8rem 4rem;
+    background-color: #ef4349;
+    color: rgb(218, 218, 49);
+    border: none;
+    border-radius: 5px;
+    margin-top: 1rem;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.addCaptain-btn:hover{
+    cursor: pointer;
+    transition: .5s ease-in-out;
+    background-color: #d8383d;
+}

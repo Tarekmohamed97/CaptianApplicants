@@ -1,0 +1,30 @@
+.home-container{
+    background: #f91339;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo-image-home{
+    width: 20%;
+    height: 20%;
+    margin-top: 8rem;
+}
+
+.joinUs-button{
+    border: none;
+    background-color: white;
+    padding: 1rem 6rem;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 150%;
+    color: red;
+    margin-top: 2rem;
+}
+
+.joinUs-button:hover{
+    background-color: rgb(204, 203, 203);
+    cursor: pointer;
+    transition: .5s ease-in-out;
+}
